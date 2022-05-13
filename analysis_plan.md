@@ -16,5 +16,5 @@ It is provisional.
 * Build simplest possible draft using e.g. standard deviation
 * Review identified scans to see whether they are plausible outliers.
 * Extend with new tools:
-    * Statistical modeling
     * Motion correction
+    * Statistical modeling
